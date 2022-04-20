@@ -16,7 +16,7 @@ namespace Books2
         public Random random;
         public Themes()
         {
-            n = 15;
+            n = 10;
             Name_Students = new string[n];
             Theme_str = new string[n];
             random = new Random();
